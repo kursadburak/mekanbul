@@ -4,7 +4,7 @@
 ![Girilen Konum Civarındaki Mekanları Listele](./resimler/mekan_listele.png)
 
 2. [Mekanın ID Bilgisi İle Mekan Bilgilerini Getir](https://mekanbul5.kursadburak.repl.co/api/mekanlar/637964bddea28ec7902c85ef)
-![Mekanın ID Bilgisi İle Mekan Bilgilerini Getir](./resimler/yorum_getir.png)
+![Mekanın ID Bilgisi İle Mekan Bilgilerini Getir](./resimler/mekan_getir.png)
 
 3. [Bir Mekana Ait Belirli Bir Yorumu Getir](https://mekanbul5.kursadburak.repl.co/api/mekanlar/637964bddea28ec7902c85ef/yorumlar/63796555e0d7c2bb605e2f42)
 ![Bir Mekana Ait Belirli Bir Yorumu Getir](./resimler/yorum_getir.png)
