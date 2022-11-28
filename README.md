@@ -1,3 +1,11 @@
+### 1 . Collection : MekanBul API Testleri
+
+[1](/resimler/thunder.png)
+
+### 2. API Testleri
+
+[2](/resimler/npm_run_test.png)
+
 # MekanBul REST API Adresleri
 
 1. [Girilen Konum Civarındaki Mekanları Listele](https://mekanbul5.kursadburak.repl.co/api/mekanlar?enlem=37.83226584629666&boylam=30.524732239878013)
