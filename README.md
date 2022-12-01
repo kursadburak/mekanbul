@@ -1,5 +1,6 @@
 # MekanBul REST API TESTLERİ
-
+[Replit Adresi](https://mekanbul.kursadburak.repl.co/?enlem=34&boylam=34)
+![Replit Adresi](./resimler/replitsonucu.png)
 
 ### 1. Collection : MekanBul API Testleri
 ![1](/resimler/thunder.png)
