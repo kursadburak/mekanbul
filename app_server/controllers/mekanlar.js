@@ -1,6 +1,6 @@
 const axios=require("axios");
 var apiSecenekleri={
-    sunucu:"http://localhost:3000",
+    //sunucu:"http://localhost:3000",
     sunucu:"https://mekanbul.kursadburak.repl.co/",
     //apiYolu:"/api/mekanlar/"
 }
